@@ -1,0 +1,3 @@
+[submodule "qtflickr"]
+	path = qtflickr
+	url = https://github.com/cybercatalyst/qtflickr.git
